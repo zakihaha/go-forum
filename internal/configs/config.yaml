@@ -1,0 +1,6 @@
+service:
+  port: ":8080"
+  secretJWT: "djhfdkjfnkfkjsdfn"
+
+database:
+  dataSourceName: "root:@tcp(localhost:3306)/fastcampus_forum?parseTime=true"
